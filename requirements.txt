@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+alembic
+boto3
+requests
+python-dotenv
+pydantic
+uuid
